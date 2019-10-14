@@ -1,0 +1,4 @@
+/* Place your extensions here to make migration to a new release easier. */
+.style {
+    background-color: linear-gradient(to right, #0388E5 0%, #07BDF4 100%);
+}
